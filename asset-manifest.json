@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.0be56390.css",
-    "main.js": "/personal-portfolio/static/js/main.16bc0406.js",
+    "main.css": "/personal-portfolio/static/css/main.a66acbe3.css",
+    "main.js": "/personal-portfolio/static/js/main.139ce1c7.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
     "static/media/Resume - Daniel Choy.pdf": "/personal-portfolio/static/media/Resume - Daniel Choy.cb0235aefff3f62e2c80.pdf",
+    "static/media/CPlusPlus.png": "/personal-portfolio/static/media/CPlusPlus.848ffa125321bf630b64.png",
+    "static/media/PostgreSQL.png": "/personal-portfolio/static/media/PostgreSQL.a7fa39912c91e079e90b.png",
+    "static/media/C.png": "/personal-portfolio/static/media/C.33c07d61bc2b301bbc33.png",
+    "static/media/Go.png": "/personal-portfolio/static/media/Go.26d6d02c30e0ab3dce15.png",
+    "static/media/MIPS.png": "/personal-portfolio/static/media/MIPS.3cb2afad83c872070397.png",
+    "static/media/Java.png": "/personal-portfolio/static/media/Java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/CSS.png": "/personal-portfolio/static/media/CSS.495a79bfbc4ced7c7c0e.png",
     "static/media/GoogleIcon.png": "/personal-portfolio/static/media/GoogleIcon.fbae180425f375b2ec35.png",
+    "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.0be56390.css.map": "/personal-portfolio/static/css/main.0be56390.css.map",
-    "main.16bc0406.js.map": "/personal-portfolio/static/js/main.16bc0406.js.map"
+    "main.a66acbe3.css.map": "/personal-portfolio/static/css/main.a66acbe3.css.map",
+    "main.139ce1c7.js.map": "/personal-portfolio/static/js/main.139ce1c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.0be56390.css",
-    "static/js/main.16bc0406.js"
+    "static/css/main.a66acbe3.css",
+    "static/js/main.139ce1c7.js"
   ]
 }
