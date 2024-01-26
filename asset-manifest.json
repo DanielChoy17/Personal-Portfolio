@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.a66acbe3.css",
-    "main.js": "/personal-portfolio/static/js/main.139ce1c7.js",
+    "main.css": "/personal-portfolio/static/css/main.db66f22e.css",
+    "main.js": "/personal-portfolio/static/js/main.46f5aae8.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
     "static/media/Resume - Daniel Choy.pdf": "/personal-portfolio/static/media/Resume - Daniel Choy.cb0235aefff3f62e2c80.pdf",
@@ -16,11 +16,11 @@
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.a66acbe3.css.map": "/personal-portfolio/static/css/main.a66acbe3.css.map",
-    "main.139ce1c7.js.map": "/personal-portfolio/static/js/main.139ce1c7.js.map"
+    "main.db66f22e.css.map": "/personal-portfolio/static/css/main.db66f22e.css.map",
+    "main.46f5aae8.js.map": "/personal-portfolio/static/js/main.46f5aae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a66acbe3.css",
-    "static/js/main.139ce1c7.js"
+    "static/css/main.db66f22e.css",
+    "static/js/main.46f5aae8.js"
   ]
 }
