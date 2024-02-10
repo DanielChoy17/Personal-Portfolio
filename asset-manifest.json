@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.1fbade05.css",
-    "main.js": "/personal-portfolio/static/js/main.6824e745.js",
+    "main.css": "/personal-portfolio/static/css/main.b70e8632.css",
+    "main.js": "/personal-portfolio/static/js/main.0a143832.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/Py4Web.png": "/personal-portfolio/static/media/Py4Web.9a1a34b0e9f8225c3822.png",
@@ -9,6 +9,7 @@
     "static/media/Virtualbox.png": "/personal-portfolio/static/media/Virtualbox.71c58a43d7c313964ac2.png",
     "static/media/AWSLambda.png": "/personal-portfolio/static/media/AWSLambda.e1087dd4876caace8881.png",
     "static/media/Github.png": "/personal-portfolio/static/media/Github.e86ac1f380c4120b7dd1.png",
+    "static/media/UCSCLogo.png": "/personal-portfolio/static/media/UCSCLogo.91fbbd87bb0575a3b525.png",
     "static/media/Resume - Daniel Choy.pdf": "/personal-portfolio/static/media/Resume - Daniel Choy.cb0235aefff3f62e2c80.pdf",
     "static/media/CPlusPlus.png": "/personal-portfolio/static/media/CPlusPlus.848ffa125321bf630b64.png",
     "static/media/GoogleColab.png": "/personal-portfolio/static/media/GoogleColab.81280582e17945c121b6.png",
@@ -21,6 +22,8 @@
     "static/media/GDBDebugger.png": "/personal-portfolio/static/media/GDBDebugger.f2293f319febb3c7bf4e.png",
     "static/media/Go.png": "/personal-portfolio/static/media/Go.26d6d02c30e0ab3dce15.png",
     "static/media/Jira.png": "/personal-portfolio/static/media/Jira.0680cd27245042af8a0a.png",
+    "static/media/Developer.png": "/personal-portfolio/static/media/Developer.da9861980f5b9d7004a6.png",
+    "static/media/Practitioner.png": "/personal-portfolio/static/media/Practitioner.f685d63a35961ca83875.png",
     "static/media/MIPS.png": "/personal-portfolio/static/media/MIPS.3cb2afad83c872070397.png",
     "static/media/NodeJs.png": "/personal-portfolio/static/media/NodeJs.9fea1c7da2bd42ab93bf.png",
     "static/media/VueJs.png": "/personal-portfolio/static/media/VueJs.32f825fa92ebf8b46693.png",
@@ -32,11 +35,11 @@
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.1fbade05.css.map": "/personal-portfolio/static/css/main.1fbade05.css.map",
-    "main.6824e745.js.map": "/personal-portfolio/static/js/main.6824e745.js.map"
+    "main.b70e8632.css.map": "/personal-portfolio/static/css/main.b70e8632.css.map",
+    "main.0a143832.js.map": "/personal-portfolio/static/js/main.0a143832.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fbade05.css",
-    "static/js/main.6824e745.js"
+    "static/css/main.b70e8632.css",
+    "static/js/main.0a143832.js"
   ]
 }
