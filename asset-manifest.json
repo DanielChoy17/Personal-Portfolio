@@ -1,15 +1,30 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.1fbade05.css",
-    "main.js": "/personal-portfolio/static/js/main.878f3f4d.js",
+    "main.js": "/personal-portfolio/static/js/main.4a8f3531.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
+    "static/media/Py4Web.png": "/personal-portfolio/static/media/Py4Web.9a1a34b0e9f8225c3822.png",
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
+    "static/media/Virtualbox.png": "/personal-portfolio/static/media/Virtualbox.71c58a43d7c313964ac2.png",
+    "static/media/AWSLambda.png": "/personal-portfolio/static/media/AWSLambda.e1087dd4876caace8881.png",
+    "static/media/Github.png": "/personal-portfolio/static/media/Github.e86ac1f380c4120b7dd1.png",
     "static/media/Resume - Daniel Choy.pdf": "/personal-portfolio/static/media/Resume - Daniel Choy.cb0235aefff3f62e2c80.pdf",
     "static/media/CPlusPlus.png": "/personal-portfolio/static/media/CPlusPlus.848ffa125321bf630b64.png",
+    "static/media/GoogleColab.png": "/personal-portfolio/static/media/GoogleColab.81280582e17945c121b6.png",
+    "static/media/Jupyter.png": "/personal-portfolio/static/media/Jupyter.e0e612fd290b62ecd44a.png",
+    "static/media/Firebase.png": "/personal-portfolio/static/media/Firebase.cb1506d84781df93228d.png",
     "static/media/PostgreSQL.png": "/personal-portfolio/static/media/PostgreSQL.a7fa39912c91e079e90b.png",
     "static/media/C.png": "/personal-portfolio/static/media/C.33c07d61bc2b301bbc33.png",
+    "static/media/AWS.png": "/personal-portfolio/static/media/AWS.93f04ae6d93a76fa069a.png",
+    "static/media/ReactNative.png": "/personal-portfolio/static/media/ReactNative.8541b143aec91404e0e4.png",
+    "static/media/GDBDebugger.png": "/personal-portfolio/static/media/GDBDebugger.f2293f319febb3c7bf4e.png",
     "static/media/Go.png": "/personal-portfolio/static/media/Go.26d6d02c30e0ab3dce15.png",
+    "static/media/Jira.png": "/personal-portfolio/static/media/Jira.0680cd27245042af8a0a.png",
     "static/media/MIPS.png": "/personal-portfolio/static/media/MIPS.3cb2afad83c872070397.png",
+    "static/media/NodeJs.png": "/personal-portfolio/static/media/NodeJs.9fea1c7da2bd42ab93bf.png",
+    "static/media/VueJs.png": "/personal-portfolio/static/media/VueJs.32f825fa92ebf8b46693.png",
+    "static/media/AgileScrum.png": "/personal-portfolio/static/media/AgileScrum.28fd86e2e3750c13f315.png",
+    "static/media/VSCode.png": "/personal-portfolio/static/media/VSCode.d793c746fbc937f66e3d.png",
     "static/media/Java.png": "/personal-portfolio/static/media/Java.f5dd86c3ef6ef3f85acf.png",
     "static/media/CSS.png": "/personal-portfolio/static/media/CSS.495a79bfbc4ced7c7c0e.png",
     "static/media/GoogleIcon.png": "/personal-portfolio/static/media/GoogleIcon.fbae180425f375b2ec35.png",
@@ -17,10 +32,10 @@
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
     "main.1fbade05.css.map": "/personal-portfolio/static/css/main.1fbade05.css.map",
-    "main.878f3f4d.js.map": "/personal-portfolio/static/js/main.878f3f4d.js.map"
+    "main.4a8f3531.js.map": "/personal-portfolio/static/js/main.4a8f3531.js.map"
   },
   "entrypoints": [
     "static/css/main.1fbade05.css",
-    "static/js/main.878f3f4d.js"
+    "static/js/main.4a8f3531.js"
   ]
 }
