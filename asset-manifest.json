@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.b70e8632.css",
-    "main.js": "/personal-portfolio/static/js/main.63eae3df.js",
+    "main.css": "/personal-portfolio/static/css/main.bc29c085.css",
+    "main.js": "/personal-portfolio/static/js/main.062f4fdc.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
+    "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
+    "static/media/NozomiTeam.JPG": "/personal-portfolio/static/media/NozomiTeam.c154a1e60f1326b24f50.JPG",
+    "static/media/NozomiIndividual.JPG": "/personal-portfolio/static/media/NozomiIndividual.4e5057d180cc4ba0ac81.JPG",
     "static/media/Py4Web.png": "/personal-portfolio/static/media/Py4Web.9a1a34b0e9f8225c3822.png",
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
     "static/media/Virtualbox.png": "/personal-portfolio/static/media/Virtualbox.71c58a43d7c313964ac2.png",
@@ -15,6 +18,7 @@
     "static/media/GoogleColab.png": "/personal-portfolio/static/media/GoogleColab.81280582e17945c121b6.png",
     "static/media/Jupyter.png": "/personal-portfolio/static/media/Jupyter.e0e612fd290b62ecd44a.png",
     "static/media/Firebase.png": "/personal-portfolio/static/media/Firebase.cb1506d84781df93228d.png",
+    "static/media/Tutor.png": "/personal-portfolio/static/media/Tutor.1da2ab18b1a709197026.png",
     "static/media/PostgreSQL.png": "/personal-portfolio/static/media/PostgreSQL.a7fa39912c91e079e90b.png",
     "static/media/C.png": "/personal-portfolio/static/media/C.33c07d61bc2b301bbc33.png",
     "static/media/AWS.png": "/personal-portfolio/static/media/AWS.93f04ae6d93a76fa069a.png",
@@ -35,11 +39,11 @@
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.b70e8632.css.map": "/personal-portfolio/static/css/main.b70e8632.css.map",
-    "main.63eae3df.js.map": "/personal-portfolio/static/js/main.63eae3df.js.map"
+    "main.bc29c085.css.map": "/personal-portfolio/static/css/main.bc29c085.css.map",
+    "main.062f4fdc.js.map": "/personal-portfolio/static/js/main.062f4fdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70e8632.css",
-    "static/js/main.63eae3df.js"
+    "static/css/main.bc29c085.css",
+    "static/js/main.062f4fdc.js"
   ]
 }
