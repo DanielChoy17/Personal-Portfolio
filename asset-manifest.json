@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.bed1a008.css",
-    "main.js": "/personal-portfolio/static/js/main.07d5b99d.js",
+    "main.css": "/personal-portfolio/static/css/main.a84532e9.css",
+    "main.js": "/personal-portfolio/static/js/main.83597988.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
@@ -39,11 +39,11 @@
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.bed1a008.css.map": "/personal-portfolio/static/css/main.bed1a008.css.map",
-    "main.07d5b99d.js.map": "/personal-portfolio/static/js/main.07d5b99d.js.map"
+    "main.a84532e9.css.map": "/personal-portfolio/static/css/main.a84532e9.css.map",
+    "main.83597988.js.map": "/personal-portfolio/static/js/main.83597988.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed1a008.css",
-    "static/js/main.07d5b99d.js"
+    "static/css/main.a84532e9.css",
+    "static/js/main.83597988.js"
   ]
 }
