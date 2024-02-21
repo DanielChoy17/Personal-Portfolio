@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.0c4369ef.css",
-    "main.js": "/personal-portfolio/static/js/main.115d3183.js",
+    "main.js": "/personal-portfolio/static/js/main.c31f230d.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
@@ -22,6 +22,7 @@
     "static/media/PostgreSQL.png": "/personal-portfolio/static/media/PostgreSQL.a7fa39912c91e079e90b.png",
     "static/media/C.png": "/personal-portfolio/static/media/C.33c07d61bc2b301bbc33.png",
     "static/media/AWS.png": "/personal-portfolio/static/media/AWS.93f04ae6d93a76fa069a.png",
+    "static/media/Postman.png": "/personal-portfolio/static/media/Postman.ae914e73894cc57556b5.png",
     "static/media/ReactNative.png": "/personal-portfolio/static/media/ReactNative.8541b143aec91404e0e4.png",
     "static/media/GDBDebugger.png": "/personal-portfolio/static/media/GDBDebugger.f2293f319febb3c7bf4e.png",
     "static/media/Go.png": "/personal-portfolio/static/media/Go.26d6d02c30e0ab3dce15.png",
@@ -40,10 +41,10 @@
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
     "main.0c4369ef.css.map": "/personal-portfolio/static/css/main.0c4369ef.css.map",
-    "main.115d3183.js.map": "/personal-portfolio/static/js/main.115d3183.js.map"
+    "main.c31f230d.js.map": "/personal-portfolio/static/js/main.c31f230d.js.map"
   },
   "entrypoints": [
     "static/css/main.0c4369ef.css",
-    "static/js/main.115d3183.js"
+    "static/js/main.c31f230d.js"
   ]
 }
