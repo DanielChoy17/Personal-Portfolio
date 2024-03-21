@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.0c4369ef.css",
-    "main.js": "/personal-portfolio/static/js/main.b87dccf7.js",
+    "main.css": "/personal-portfolio/static/css/main.cbfabf99.css",
+    "main.js": "/personal-portfolio/static/js/main.92c6ec7f.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
     "static/media/NozomiTeam.JPG": "/personal-portfolio/static/media/NozomiTeam.c154a1e60f1326b24f50.JPG",
     "static/media/NozomiIndividual.JPG": "/personal-portfolio/static/media/NozomiIndividual.4e5057d180cc4ba0ac81.JPG",
+    "static/media/Meta Introduction to Back-End Development Certificate.pdf": "/personal-portfolio/static/media/Meta Introduction to Back-End Development Certificate.77f661ae8174e919388d.pdf",
     "static/media/Py4Web.png": "/personal-portfolio/static/media/Py4Web.9a1a34b0e9f8225c3822.png",
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
     "static/media/Virtualbox.png": "/personal-portfolio/static/media/Virtualbox.71c58a43d7c313964ac2.png",
@@ -18,8 +19,10 @@
     "static/media/GoogleColab.png": "/personal-portfolio/static/media/GoogleColab.81280582e17945c121b6.png",
     "static/media/Jupyter.png": "/personal-portfolio/static/media/Jupyter.e0e612fd290b62ecd44a.png",
     "static/media/Firebase.png": "/personal-portfolio/static/media/Firebase.cb1506d84781df93228d.png",
+    "static/media/MetaLogo.png": "/personal-portfolio/static/media/MetaLogo.132c932681b90f7d6a12.png",
     "static/media/Tutor.png": "/personal-portfolio/static/media/Tutor.1da2ab18b1a709197026.png",
     "static/media/PostgreSQL.png": "/personal-portfolio/static/media/PostgreSQL.a7fa39912c91e079e90b.png",
+    "static/media/AWS Certified Developer - Associate Certificate.pdf": "/personal-portfolio/static/media/AWS Certified Developer - Associate Certificate.ec0be957128f86341ebc.pdf",
     "static/media/C.png": "/personal-portfolio/static/media/C.33c07d61bc2b301bbc33.png",
     "static/media/AWS.png": "/personal-portfolio/static/media/AWS.93f04ae6d93a76fa069a.png",
     "static/media/Postman.png": "/personal-portfolio/static/media/Postman.ae914e73894cc57556b5.png",
@@ -29,6 +32,7 @@
     "static/media/Jira.png": "/personal-portfolio/static/media/Jira.0680cd27245042af8a0a.png",
     "static/media/Developer.png": "/personal-portfolio/static/media/Developer.da9861980f5b9d7004a6.png",
     "static/media/Practitioner.png": "/personal-portfolio/static/media/Practitioner.f685d63a35961ca83875.png",
+    "static/media/AWS Certified Cloud Practitioner Certificate.pdf": "/personal-portfolio/static/media/AWS Certified Cloud Practitioner Certificate.3d30d191581b44bb3c1c.pdf",
     "static/media/MIPS.png": "/personal-portfolio/static/media/MIPS.3cb2afad83c872070397.png",
     "static/media/NodeJs.png": "/personal-portfolio/static/media/NodeJs.9fea1c7da2bd42ab93bf.png",
     "static/media/VueJs.png": "/personal-portfolio/static/media/VueJs.32f825fa92ebf8b46693.png",
@@ -40,11 +44,11 @@
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.0c4369ef.css.map": "/personal-portfolio/static/css/main.0c4369ef.css.map",
-    "main.b87dccf7.js.map": "/personal-portfolio/static/js/main.b87dccf7.js.map"
+    "main.cbfabf99.css.map": "/personal-portfolio/static/css/main.cbfabf99.css.map",
+    "main.92c6ec7f.js.map": "/personal-portfolio/static/js/main.92c6ec7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c4369ef.css",
-    "static/js/main.b87dccf7.js"
+    "static/css/main.cbfabf99.css",
+    "static/js/main.92c6ec7f.js"
   ]
 }
