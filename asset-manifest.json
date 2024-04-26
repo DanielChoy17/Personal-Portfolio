@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.cbfabf99.css",
-    "main.js": "/personal-portfolio/static/js/main.74a3bb35.js",
+    "main.js": "/personal-portfolio/static/js/main.9bd63dbf.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
@@ -41,15 +41,16 @@
     "static/media/VSCode.png": "/personal-portfolio/static/media/VSCode.d793c746fbc937f66e3d.png",
     "static/media/Java.png": "/personal-portfolio/static/media/Java.f5dd86c3ef6ef3f85acf.png",
     "static/media/CSS.png": "/personal-portfolio/static/media/CSS.495a79bfbc4ced7c7c0e.png",
+    "static/media/TDD.png": "/personal-portfolio/static/media/TDD.e7bcad12e919f2ae660f.png",
     "static/media/GoogleIcon.png": "/personal-portfolio/static/media/GoogleIcon.fbae180425f375b2ec35.png",
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
     "main.cbfabf99.css.map": "/personal-portfolio/static/css/main.cbfabf99.css.map",
-    "main.74a3bb35.js.map": "/personal-portfolio/static/js/main.74a3bb35.js.map"
+    "main.9bd63dbf.js.map": "/personal-portfolio/static/js/main.9bd63dbf.js.map"
   },
   "entrypoints": [
     "static/css/main.cbfabf99.css",
-    "static/js/main.74a3bb35.js"
+    "static/js/main.9bd63dbf.js"
   ]
 }
