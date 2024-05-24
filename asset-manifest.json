@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.cbfabf99.css",
-    "main.js": "/personal-portfolio/static/js/main.24133ea2.js",
+    "main.css": "/personal-portfolio/static/css/main.3e5cb9d0.css",
+    "main.js": "/personal-portfolio/static/js/main.3de61d6c.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
     "static/media/NozomiTeam.JPG": "/personal-portfolio/static/media/NozomiTeam.c154a1e60f1326b24f50.JPG",
     "static/media/NozomiIndividual.JPG": "/personal-portfolio/static/media/NozomiIndividual.4e5057d180cc4ba0ac81.JPG",
     "static/media/Meta Introduction to Back-End Development Certificate.pdf": "/personal-portfolio/static/media/Meta Introduction to Back-End Development Certificate.77f661ae8174e919388d.pdf",
-    "static/media/Meta Programming in Python.pdf": "/personal-portfolio/static/media/Meta Programming in Python.6e6f747af415a03eb55d.pdf",
-    "static/media/Meta Version Control.pdf": "/personal-portfolio/static/media/Meta Version Control.2627d4e429c075c31178.pdf",
+    "static/media/Meta Programming in Python Certificate.pdf": "/personal-portfolio/static/media/Meta Programming in Python Certificate.6e6f747af415a03eb55d.pdf",
+    "static/media/Meta Version Control Certificate.pdf": "/personal-portfolio/static/media/Meta Version Control Certificate.2627d4e429c075c31178.pdf",
+    "static/media/Udemy Jenkins Certificate.pdf": "/personal-portfolio/static/media/Udemy Jenkins Certificate.ebe0b24f926dcf757a4f.pdf",
     "static/media/Py4Web.png": "/personal-portfolio/static/media/Py4Web.9a1a34b0e9f8225c3822.png",
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
     "static/media/Virtualbox.png": "/personal-portfolio/static/media/Virtualbox.71c58a43d7c313964ac2.png",
@@ -31,6 +32,7 @@
     "static/media/ReactNative.png": "/personal-portfolio/static/media/ReactNative.8541b143aec91404e0e4.png",
     "static/media/GDBDebugger.png": "/personal-portfolio/static/media/GDBDebugger.f2293f319febb3c7bf4e.png",
     "static/media/Go.png": "/personal-portfolio/static/media/Go.26d6d02c30e0ab3dce15.png",
+    "static/media/JenkinsLogo.png": "/personal-portfolio/static/media/JenkinsLogo.92ed6c027813d7b3d681.png",
     "static/media/Jira.png": "/personal-portfolio/static/media/Jira.0680cd27245042af8a0a.png",
     "static/media/Developer.png": "/personal-portfolio/static/media/Developer.da9861980f5b9d7004a6.png",
     "static/media/Practitioner.png": "/personal-portfolio/static/media/Practitioner.f685d63a35961ca83875.png",
@@ -45,13 +47,14 @@
     "static/media/TDD.png": "/personal-portfolio/static/media/TDD.e7bcad12e919f2ae660f.png",
     "static/media/GoogleIcon.png": "/personal-portfolio/static/media/GoogleIcon.fbae180425f375b2ec35.png",
     "static/media/HTML.png": "/personal-portfolio/static/media/HTML.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/JFrog.png": "/personal-portfolio/static/media/JFrog.554abae8f665b26acbf3.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.cbfabf99.css.map": "/personal-portfolio/static/css/main.cbfabf99.css.map",
-    "main.24133ea2.js.map": "/personal-portfolio/static/js/main.24133ea2.js.map"
+    "main.3e5cb9d0.css.map": "/personal-portfolio/static/css/main.3e5cb9d0.css.map",
+    "main.3de61d6c.js.map": "/personal-portfolio/static/js/main.3de61d6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfabf99.css",
-    "static/js/main.24133ea2.js"
+    "static/css/main.3e5cb9d0.css",
+    "static/js/main.3de61d6c.js"
   ]
 }
