@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.3e5cb9d0.css",
-    "main.js": "/personal-portfolio/static/js/main.8e9e1b66.js",
+    "main.js": "/personal-portfolio/static/js/main.173dc77c.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
@@ -15,7 +15,7 @@
     "static/media/Python.png": "/personal-portfolio/static/media/Python.dea924d737bb84eb9ce3.png",
     "static/media/Virtualbox.png": "/personal-portfolio/static/media/Virtualbox.71c58a43d7c313964ac2.png",
     "static/media/AWSLambda.png": "/personal-portfolio/static/media/AWSLambda.e1087dd4876caace8881.png",
-    "static/media/Resume - Daniel Choy.pdf": "/personal-portfolio/static/media/Resume - Daniel Choy.e3b8493cb47a75a3d828.pdf",
+    "static/media/Resume - Daniel Choy.pdf": "/personal-portfolio/static/media/Resume - Daniel Choy.ec66d442f9ab3627f385.pdf",
     "static/media/Github.png": "/personal-portfolio/static/media/Github.e86ac1f380c4120b7dd1.png",
     "static/media/UCSCLogo.png": "/personal-portfolio/static/media/UCSCLogo.91fbbd87bb0575a3b525.png",
     "static/media/CPlusPlus.png": "/personal-portfolio/static/media/CPlusPlus.848ffa125321bf630b64.png",
@@ -51,10 +51,10 @@
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
     "main.3e5cb9d0.css.map": "/personal-portfolio/static/css/main.3e5cb9d0.css.map",
-    "main.8e9e1b66.js.map": "/personal-portfolio/static/js/main.8e9e1b66.js.map"
+    "main.173dc77c.js.map": "/personal-portfolio/static/js/main.173dc77c.js.map"
   },
   "entrypoints": [
     "static/css/main.3e5cb9d0.css",
-    "static/js/main.8e9e1b66.js"
+    "static/js/main.173dc77c.js"
   ]
 }
