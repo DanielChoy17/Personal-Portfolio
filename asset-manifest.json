@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.3e5cb9d0.css",
-    "main.js": "/personal-portfolio/static/js/main.68ec194e.js",
+    "main.css": "/personal-portfolio/static/css/main.0f4dad28.css",
+    "main.js": "/personal-portfolio/static/js/main.9e1cb796.js",
     "static/media/MePicture.jpg": "/personal-portfolio/static/media/MePicture.de02e7e7e8c6ce2665b8.jpg",
     "static/media/Diploma - Daniel Choy.pdf": "/personal-portfolio/static/media/Diploma - Daniel Choy.61173ec56a51d4ef3e8f.pdf",
     "static/media/BaskinEng.JPG": "/personal-portfolio/static/media/BaskinEng.2d922df48c89bd17fa2c.JPG",
     "static/media/NozomiTeam.JPG": "/personal-portfolio/static/media/NozomiTeam.c154a1e60f1326b24f50.JPG",
     "static/media/NozomiIndividual.JPG": "/personal-portfolio/static/media/NozomiIndividual.4e5057d180cc4ba0ac81.JPG",
+    "static/media/Generative AI with Large Language Models Certificate.pdf": "/personal-portfolio/static/media/Generative AI with Large Language Models Certificate.cc55d93ca76f67e86542.pdf",
     "static/media/Meta Introduction to Databases for Back-End Development Certificate.pdf": "/personal-portfolio/static/media/Meta Introduction to Databases for Back-End Development Certificate.8d368f588daf6e350e6a.pdf",
     "static/media/Meta Introduction to Back-End Development Certificate.pdf": "/personal-portfolio/static/media/Meta Introduction to Back-End Development Certificate.77f661ae8174e919388d.pdf",
     "static/media/Meta Programming in Python Certificate.pdf": "/personal-portfolio/static/media/Meta Programming in Python Certificate.6e6f747af415a03eb55d.pdf",
@@ -51,11 +52,11 @@
     "static/media/JFrog.png": "/personal-portfolio/static/media/JFrog.554abae8f665b26acbf3.png",
     "static/media/Haskell.png": "/personal-portfolio/static/media/Haskell.0a3c1e66b4f065d744f5.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.3e5cb9d0.css.map": "/personal-portfolio/static/css/main.3e5cb9d0.css.map",
-    "main.68ec194e.js.map": "/personal-portfolio/static/js/main.68ec194e.js.map"
+    "main.0f4dad28.css.map": "/personal-portfolio/static/css/main.0f4dad28.css.map",
+    "main.9e1cb796.js.map": "/personal-portfolio/static/js/main.9e1cb796.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e5cb9d0.css",
-    "static/js/main.68ec194e.js"
+    "static/css/main.0f4dad28.css",
+    "static/js/main.9e1cb796.js"
   ]
 }
